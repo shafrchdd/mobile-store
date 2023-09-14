@@ -5,7 +5,7 @@ The Mobile Store is an e-commerce site project to sell goods (e.g. mobile phones
 
 ## To run locally
 
-1. Clone `git clone https://github.com/nick-rudenko/the-mobile-store.git`
+1. Clone `git clone https://github.com/shafrchdd/mobile-store.git`
 2. Install dependencies `npm install`
 3. Run in development mode `npm start`
 4. Visit `localhost:3000`
