@@ -2,9 +2,6 @@
 
 The Mobile Store is an e-commerce site project to sell goods (e.g. mobile phones) built with Create-React-App
 
-## Deployment
-
-Available live on Netlify [here](https://the-mobile-store.netlify.com/)
 
 ## To run locally
 
